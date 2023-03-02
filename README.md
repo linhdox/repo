@@ -1,2 +1,2 @@
 # repo
-Repository for testing my Git/GitHub setu
+Repository for testing my Git/GitHub setup
